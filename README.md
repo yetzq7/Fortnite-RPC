@@ -6,7 +6,7 @@ The original dll should be in FortniteGame\Binaries\ThirdParty\Discord\Win64 (us
 
 ## Important
 
-You need to make a settings.ini file with this layout:
+You need to make a settings.ini file where the rpc dll is with this layout:
 
 ```
 
